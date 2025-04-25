@@ -1,0 +1,9 @@
+requests>=2.31.0
+google-generativeai>=0.3.2
+gradio
+cryptography
+fpdf
+SpeechRecognition==3.10.0
+PyAudio==0.2.13
+python-dotenv==1.0.1
+google-generativeai==0.3.1
